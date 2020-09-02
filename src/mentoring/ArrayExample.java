@@ -29,4 +29,9 @@ You need to make it flat with minimum hight. With 1 step you can remove all bloc
 2 1 5 5 3
 Write a function that takes  int[] arr and return minimum amount of steps needed to make it flat.
      */
+
+    public static void Test(){
+
+    }
 }
+
